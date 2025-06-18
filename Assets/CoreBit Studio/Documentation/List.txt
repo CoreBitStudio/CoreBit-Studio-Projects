@@ -1,0 +1,29 @@
+შორს რომ არის გრიდიდან მაინც წავიდეს
+
+
+
+
+---------- საერთო გეგმა
+კოდების დაკომენტარება და Tooltip ების გაკეთება ✅
+ასეთ სტორიზე დარეგისტრირება, გვერდის მომზადება ✅
+ასეთ სტორზე მოძებნა გარემოსი ✅
+ვიდეოს ჩაწერა როგორ გამოვიყენოთ ✅
+დოკუმენტის მომზადება როგორ გამოვიყენოთ ✅
+გეიმფლეი ვიდეოს ჩაწერა
+დემო სცენების ატვირთვა სადმე, რომ ლაივში გატესტონ
+სახელის, სურათის, დესქრიფშენის მომზადება ასეტისთვის
+რეკლამისთვის მომზადება
+რედიტის, ტვიტერის, დისქორდის,იუნითი ფორუმის ჯგუფები სადაც შემეძლება გავაზიარო ასეტი
+ჯიპიტაური რა დოკუმენტებსაც მეტყვის მაგის გამზადება
+
+
+
+დოკუმენტის თანმიმდევრობა
+First, let's add the FollowerPathAgent component to the object.
+Next, click the Create Grid Manager button — it will automatically create the necessary objects as its child objects.
+Now, let's configure the GridManager.
+The FollowerPathAgent comes with built-in events.
+
+pathfinding, 2D, grid, a*, navigation, ai, obstacle, topdown, agent, unity
+Smart 2D A* Pathfinding System – Obstacle-Aware, Smooth, Plug & Play AI
+Smart 2D A* Pathfinding System for Unity
