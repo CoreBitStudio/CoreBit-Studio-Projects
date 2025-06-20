@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/CoreBit Studio/A Path & Follow Toolkit for 2D/Scene/New Scene.unity
-    guid: 3c6b7b99421745c44a3c428c558ea896
+    path: Assets/CoreBit Studio/For Demo/A Path & Follow Toolkit for 2D/WerbGl Demo
+      Scenes/A Path & Follow Toolkit for 2D/Demo Scene 1.unity
+    guid: 34d839922e93f6f4eb89904758878790
+  - enabled: 1
+    path: Assets/CoreBit Studio/For Demo/A Path & Follow Toolkit for 2D/WerbGl Demo
+      Scenes/A Path & Follow Toolkit for 2D/Demo Scene 2.unity
+    guid: 522e4dd4761d6c04a9638479d97fcb57
+  - enabled: 1
+    path: Assets/CoreBit Studio/For Demo/A Path & Follow Toolkit for 2D/WerbGl Demo
+      Scenes/A Path & Follow Toolkit for 2D/Demo Scene 3.unity
+    guid: f0939d367ef457145bbf4358bb7eadbb
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
