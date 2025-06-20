@@ -1,0 +1,153 @@
+
+Aye Monster.png
+size: 813,1066
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2ARM 1
+  rotate: true
+  xy: 511, 7
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+2ARM 2
+  rotate: false
+  xy: 231, 315
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+2EYE CLOSE
+  rotate: false
+  xy: 342, 2
+  size: 167, 92
+  orig: 167, 92
+  offset: 0, 0
+  index: -1
+2HEAD
+  rotate: true
+  xy: 524, 837
+  size: 227, 287
+  orig: 227, 287
+  offset: 0, 0
+  index: -1
+2LEG 1
+  rotate: false
+  xy: 231, 213
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+2LEG 2
+  rotate: false
+  xy: 295, 113
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+2UPPER
+  rotate: false
+  xy: 2, 397
+  size: 510, 331
+  orig: 510, 331
+  offset: 0, 0
+  index: -1
+3ARM 1
+  rotate: true
+  xy: 598, 7
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+3ARM 2
+  rotate: false
+  xy: 315, 315
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+3EYE CLOSE
+  rotate: false
+  xy: 2, 2
+  size: 168, 92
+  orig: 168, 92
+  offset: 0, 0
+  index: -1
+3HEAD
+  rotate: true
+  xy: 524, 608
+  size: 227, 287
+  orig: 227, 287
+  offset: 0, 0
+  index: -1
+3LEG 1
+  rotate: false
+  xy: 231, 111
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+3LEG 2
+  rotate: true
+  xy: 359, 251
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+3UPPER
+  rotate: false
+  xy: 2, 730
+  size: 520, 334
+  orig: 520, 334
+  offset: 0, 0
+  index: -1
+ARM 1
+  rotate: true
+  xy: 685, 7
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+ARM 2
+  rotate: false
+  xy: 399, 315
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+EYE CLOSE
+  rotate: false
+  xy: 172, 2
+  size: 168, 92
+  orig: 168, 92
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 2, 108
+  size: 227, 287
+  orig: 227, 287
+  offset: 0, 0
+  index: -1
+LEG 1
+  rotate: false
+  xy: 295, 213
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+LEG 2
+  rotate: false
+  xy: 359, 151
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+UPPER
+  rotate: true
+  xy: 514, 96
+  size: 510, 293
+  orig: 510, 293
+  offset: 0, 0
+  index: -1
