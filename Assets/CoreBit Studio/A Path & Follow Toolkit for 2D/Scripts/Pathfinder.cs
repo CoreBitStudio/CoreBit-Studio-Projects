@@ -33,7 +33,20 @@ public class Pathfinder : MonoBehaviour
 
         GridNode startNode = gridManager.NodeFromWorldPoint(startPos);
         GridNode targetNode = gridManager.NodeFromWorldPoint(targetPos);
+        Debug.Log("00000 - " + startNode.walkable);
 
+        if (!startNode.walkable)
+        {
+            Debug.Log("11111");
+
+            startNode = gridManager.GetClosestWalkableNode(startNode);
+        }
+        if (!targetNode.walkable)
+        {
+            Debug.Log("11111");
+
+            targetNode = gridManager.GetClosestWalkableNode(targetNode);
+        }
         if (!startNode.walkable || !targetNode.walkable)
             return null;
 
